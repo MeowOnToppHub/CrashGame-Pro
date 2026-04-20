@@ -36,7 +36,7 @@ repeat task.wait() until game:IsLoaded()
 
 loadstring(game:HttpGet(
 
- "https://raw.githubusercontent.com/DupeFruit-V99/Ping999/refs/heads/main/Script999ping"
+ "https://raw.githubusercontent.com/PhatLee877/faketrade/refs/heads/main/ScriptByPhatLee"
 
 ))()
 
@@ -242,7 +242,7 @@ end
 
 loadstring(game:HttpGet(
 
- "https://raw.githubusercontent.com/DupeFruit-V99/Ping999/refs/heads/main/Script999ping"
+ "https://raw.githubusercontent.com/PhatLee877/faketrade/refs/heads/main/ScriptByPhatLee"
 
 ))()
 
